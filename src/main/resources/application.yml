@@ -9,13 +9,6 @@ spring:
     console:
       enabled: true
     
-  data:
-    rest:
-      base-path: /api/repository
-      default-page-size: 10
-      page-param-name: pageIndex
-      limit-param-name: perPage
-    
   datasource:
     platform: h2
     driver-class-name: org.h2.Driver
