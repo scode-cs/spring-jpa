@@ -1,0 +1,17 @@
+com/scode/springjpa/response/CarManufacturerResponse.class
+com/scode/springjpa/mapper/ResponseMapper.class
+com/scode/springjpa/controller/CarController.class
+com/scode/springjpa/application/JpaApplication.class
+com/scode/springjpa/response/CarBodyTypeResponse.class
+com/scode/springjpa/config/JpaAuditingConfig.class
+com/scode/springjpa/entity/CarManufacturerEntity.class
+com/scode/springjpa/repository/CarManufacturerRepository.class
+com/scode/springjpa/entity/CarBodyTypeEntity.class
+com/scode/springjpa/service/CarService.class
+com/scode/springjpa/response/CarModelResponse.class
+com/scode/springjpa/response/CarManufacturerResponse$CarManufacturerResponseBuilder.class
+com/scode/springjpa/repository/CarModelRepository.class
+com/scode/springjpa/response/CarModelResponse$CarModelResponseBuilder.class
+com/scode/springjpa/entity/CarModelEntity.class
+com/scode/springjpa/response/CarBodyTypeResponse$CarBodyTypeResponseBuilder.class
+com/scode/springjpa/mapper/CarModelMapper.class
