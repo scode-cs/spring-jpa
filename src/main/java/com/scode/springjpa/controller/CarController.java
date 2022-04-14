@@ -13,11 +13,9 @@ import org.springframework.web.bind.annotation.RestController;
 import com.scode.springjpa.response.CarModelResponse;
 import com.scode.springjpa.service.CarService;
 
-import io.swagger.annotations.Api;
 
 @RestController
 @RequestMapping("/api/cars")
-@Api(value = "Cars", tags = "cars")
 public class CarController {
 	
 	@Autowired
